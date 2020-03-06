@@ -1,0 +1,14 @@
+back
+build
+dist
+*.pyc
+*.ini
+*.log
+*.pkg
+*.toc
+*.zip
+*.manifest
+*.txt
+*.html
+*.pyz
+*.exe
