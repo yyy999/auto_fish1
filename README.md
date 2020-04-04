@@ -44,6 +44,7 @@ Created on Fri Mar  6 11:35:08 2020
 在文件夹auto_fish中找到fishtrade_main200111.py文件，单击运行。
 
 ### 无需安装的编译版本
+谷歌网盘下载https://drive.google.com/open?id=1SGligzL2rU4AHdrVwp538kDWCsLfXLNd
 找到*.exe程序,可直接双击运行
 
 
