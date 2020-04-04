@@ -98,14 +98,11 @@ auto_fish使用Github托管其源代码，如果希望贡献代码请使用githu
 * [社区行为准则](https://github.com/yyy999/auto_ma912/blob/docs/rule.md)
 
 #### 联系信息
- 网站：http://www.simplenet.top
-
  QQ：806935610
-
  微信：yyy99966
 <p align="center">
-  <img src ="http://www.simplenet.top/hb/image/yyy99966_1.jpg"  width="200" height="200"/>
-
+  <img src ="https://photos.google.com/photo/AF1QipNkBBi2_N30pJ_l8F5AebkuHpv3tE31yxCmnTe_"  width="200" height="200"/>
+ <img src ="https://photos.google.com/photo/AF1QipOpazYfTU5v1lMwgYISf5JamlW8PLYQHPrfOzKm"  width="200" height="200"/>
 </p>
 
 #### 版权说明
