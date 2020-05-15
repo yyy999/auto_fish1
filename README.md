@@ -7,7 +7,9 @@ Created on Fri Mar  6 11:35:08 2020
 @wechart: yyy99966
 @github: https://github.com/yyy999
 """
+```
 项目捐赠Donate Eth address: 0x115422aE33A317FE7D8e8C4eF4533022a180D8F8
+```
 ## ET智能量化交易网格系统简化开源版简介
 
 本系统由具有多年量化专业开发经验的团队人员研发，是一个针对火币交易所的加密数字资产市场中币币交易开发的一套专用交易系统，系统设计融合了作者多年的金融外汇交易及数字资产市场交易经验，是一套智能7*24小时交易系统。系统对接火币官方接口，经过长达两年的不断测试与优化，云端化运行，安全可控，策略可定制，使用方便!
@@ -91,20 +93,14 @@ auto_fish使用Github托管其源代码，如果希望贡献代码请使用githu
 ### 其他内容
 《ET量化开发实战进阶》在线课程，已经在微信公众号[**ET量化交易社区**]上线，50节内容覆盖从策略设计开发、参数回测优化，到最终实盘自动交易的完整量化业务流程。购买请扫描下方二维码关注后，点击菜单栏的【量化课程】按钮即可：
 
-[!image](http://www.simplenet.top/hb/image/Mt4_ea999_s.jpg)
-<p align="center">
-  <img src ="http://www.simplenet.top/hb/image/Mt4_ea999_s.jpg"  width="200" height="200"/>
-</p>
+
 
 * [社区行为准则](https://github.com/yyy999/auto_ma912/blob/docs/rule.md)
 
 #### 联系信息
  QQ：806935610
  微信：yyy99966
-<p align="center">
-  <img src ="https://photos.google.com/photo/AF1QipNkBBi2_N30pJ_l8F5AebkuHpv3tE31yxCmnTe_"  width="200" height="200"/>
- <img src ="https://photos.google.com/photo/AF1QipOpazYfTU5v1lMwgYISf5JamlW8PLYQHPrfOzKm"  width="200" height="200"/>
-</p>
+
 
 #### 版权说明
 
